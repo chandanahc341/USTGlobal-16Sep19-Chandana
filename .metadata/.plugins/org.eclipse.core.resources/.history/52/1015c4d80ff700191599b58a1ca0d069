@@ -1,0 +1,9 @@
+package com.ustglobal.javaBeanClass;
+
+public class EmpTestC {
+	public static void main(String[] args) {
+		Employee e = new Employee();
+		
+	}
+
+}

@@ -1,0 +1,11 @@
+package com.ustglobal.javaBeanClass;
+
+public class Employee {
+	private int id;
+	private double salary;
+	private String name;
+	private int dept;
+	private String designation;
+	
+
+}

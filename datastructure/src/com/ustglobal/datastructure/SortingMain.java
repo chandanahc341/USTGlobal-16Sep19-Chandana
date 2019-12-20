@@ -1,0 +1,42 @@
+package com.ustglobal.datastructure;
+
+public class SortingMain {
+	public static void main(String[] args) {
+		System.out.println("main started");
+		System.out.println("bubble sort..............................");
+		int arr[]= {10,31,22,63,54};
+		BubbleSort ob = new BubbleSort();
+		ob.bubbleSort(arr);
+		System.out.println("sorted array.......");
+		ob.printArray(arr);
+		
+		
+		System.out.println("merge sort...........................");
+		int arr1[]= {33,11,55,22,57};
+		MergeSort m = new MergeSort();
+		m.sort(arr1, 0, arr1.length-1);
+		System.out.println("sorted array");
+		m.printArray(arr1);
+		
+		
+		System.out.println("insertion sort...........................");
+		int arr2[]= {99,88,55,22,57};
+		InsertionSort i = new InsertionSort();
+		i.sort(arr2);
+		System.out.println("sorted array");
+		m.printArray(arr2);
+		
+		
+		
+		System.out.println("quick sort...........................");
+		int arr3[]= {99,88,55,22,57};
+		QuickSort q = new QuickSort();
+		q.sort(arr3, 0, arr3.length-1);
+		System.out.println("sorted array");
+		m.printArray(arr3);
+		
+		
+		System.out.println("main ended");
+	}
+
+}

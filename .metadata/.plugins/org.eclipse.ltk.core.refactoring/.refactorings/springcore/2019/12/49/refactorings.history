@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;AnnotationComponentScanApp.java&apos; to &apos;jpaassignment&apos;&#x0D;&#x0A;- Original project: &apos;springcore&apos;&#x0D;&#x0A;- Destination element: &apos;jpaassignment&apos;&#x0D;&#x0A;- Original element: &apos;com.ustglobal.springcore.AnnotationComponentScanApp.java&apos;" description="Copy compilation unit" destination="=jpaassignment" element1="/src\/main\/java&lt;com.ustglobal.springcore{AnnotationComponentScanApp.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1575453999262" units="1" version="1.0"/>
+</session>

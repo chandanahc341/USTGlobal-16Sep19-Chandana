@@ -1,0 +1,20 @@
+package com.ustglobal.datastructure;
+
+public class SortingMain {
+	public static void main(String[] args) {
+		System.out.println("main started");
+		System.out.println("bubble sort...........");
+		int arr[]= {10,31,22,63,54};
+		BubbleSort ob = new BubbleSort();
+		ob.bubbleSort(arr);
+		System.out.println("sorted array.......");
+		ob.printArray(arr);
+		
+		
+		System.out.println("merge sort..........");
+		int arr1[]= {33,11,55,22,57};
+		
+		System.out.println("main ended");
+	}
+
+}

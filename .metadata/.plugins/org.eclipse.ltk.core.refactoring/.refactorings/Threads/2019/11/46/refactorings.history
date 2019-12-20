@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;TestThread.java&apos; to &apos;Threads/src/com.ustglobal.thread.pausing&apos;&#x0D;&#x0A;- Original project: &apos;Threads&apos;&#x0D;&#x0A;- Destination element: &apos;Threads/src/com.ustglobal.thread.pausing&apos;&#x0D;&#x0A;- Original element: &apos;com.ustglobal.thread.properties.TestThread.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;com.ustglobal.thread.pausing" element1="/src&lt;com.ustglobal.thread.properties{TestThread.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1573459299815" units="1" version="1.0"/>
+</session>

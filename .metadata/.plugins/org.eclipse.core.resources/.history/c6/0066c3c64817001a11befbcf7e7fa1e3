@@ -1,0 +1,11 @@
+package com.ustglobal.datastructure;
+
+public class SortingMain {
+	public static void main(String[] args) {
+		System.out.println("main started");
+		System.out.println("bubble sort...........");
+		int arr[]= {10,31,22,63,54};
+		System.out.println("main ended");
+	}
+
+}

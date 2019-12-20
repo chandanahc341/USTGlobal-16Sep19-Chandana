@@ -1,0 +1,13 @@
+package com.ustglobal.javaBeanClass;
+
+public class EmpDatabase {
+	void receive(Employee e) {
+		System.out.println("Id is "+e.getid());
+		System.out.println("Name is "+e.getName());
+		System.out.println("Designation is "+e.getDesignation())
+		System.out.println("Dept is "+e.getDept());
+		System.out.println("Salary is "+e.getSalary());
+		
+	}
+
+}

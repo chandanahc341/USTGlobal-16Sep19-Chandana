@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;csv.txt&apos; to &apos;exception&apos;" description="Move &apos;csv.txt&apos; to &apos;exception&apos;" destination="/exception" element1="/Filehandling/csv.txt" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1573189871893" updateReferences="true"/>
+</session>
